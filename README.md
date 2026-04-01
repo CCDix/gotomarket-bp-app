@@ -1,7 +1,7 @@
 # Go-to-Market Plan: Soccer PS-Connect
 
 **Version:** 1.0  
-**Datum:** 28. März 2026  
+**Datum:** Januar 2026  
 **Status:** Phase 1 - Launch & Community Seeding (Sept 2026 – Aug 2027)
 
 ---
